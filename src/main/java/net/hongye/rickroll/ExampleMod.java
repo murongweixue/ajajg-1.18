@@ -9,8 +9,6 @@ import net.minecraft.util.registry.Registry;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-
-
 public class ExampleMod implements ModInitializer {
 
 	// an instance of our new item
